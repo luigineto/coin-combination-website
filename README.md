@@ -1,4 +1,4 @@
-# Coin Combination website_
+# Coin Combination website
 
 #### _Ruby and Sinatra exercise for Epicodus, 22.02.2017_
 
