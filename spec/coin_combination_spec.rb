@@ -1,7 +1,7 @@
 require('rspec')
 require('coin_combination')
 
-describe('String#jo_ken_po') do
+describe('String#coin_combination') do
 	it('returns the number of pennies for a value of 1 cent') do
 		expect('1'.coin_combination()).to(eq([1,0,0,0]))
 	end
